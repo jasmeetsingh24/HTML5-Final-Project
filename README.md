@@ -8,4 +8,4 @@ Attachments:
 
 finalproject.html
 ProjectDescription.png
-The ProjectDesciption is what you need to replicate using your code except the highlighted yellow content
+The Project Description is what you need to replicate using your code except the highlighted yellow content
